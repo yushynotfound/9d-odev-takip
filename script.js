@@ -41,7 +41,7 @@ const dersVerileri = [
     { gun: 'perşembe', saat: 8, dersAdi: 'Tarih', odev: 'Evet', not: 'Afiş' },
     
     // Cuma
-    { gun: 'cuma', saat: 1, dersAdi: 'Müzik', odev: 'Hayır', not: '' },
+    { gun: 'cuma', saat: 1, dersAdi: 'Müzik', odev: 'Evet', not: 'İstiklal Marşı' },
     { gun: 'cuma', saat: 2, dersAdi: 'Türk Dili ve Edebiyatı', odev: 'Hayır', not: '' },
     { gun: 'cuma', saat: 3, dersAdi: 'Din Kültürü ve Ahlak Bilgisi', odev: 'Hayır', not: '' },
     { gun: 'cuma', saat: 4, dersAdi: 'Tarih', odev: 'Hayır', not: '' },
