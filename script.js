@@ -31,24 +31,24 @@ const dersVerileri = [
     { gun: 'çarşamba', saat: 8, dersAdi: 'İngilizce', odev: 'Hayır', not: '' },
     
     // Perşembe
-    { gun: 'perşembe', saat: 1, dersAdi: 'Türk Dili ve Edebiyatı', odev: 'Hayır', not: '' },
-    { gun: 'perşembe', saat: 2, dersAdi: 'Türk Dili ve Edebiyatı', odev: 'Hayır', not: '' },
+    { gun: 'perşembe', saat: 1, dersAdi: 'Türk Dili ve Edebiyatı', odev: 'Evet', not: 'Kitap etkinliği' },
+    { gun: 'perşembe', saat: 2, dersAdi: 'Türk Dili ve Edebiyatı', odev: 'Evet', not: 'Kitap etkinliği' },
     { gun: 'perşembe', saat: 3, dersAdi: 'Almanca', odev: 'Hayır', not: '' },
     { gun: 'perşembe', saat: 4, dersAdi: 'Coğrafya', odev: 'Hayır', not: '' },
     { gun: 'perşembe', saat: 5, dersAdi: 'Matematik', odev: 'Hayır', not: '' },
     { gun: 'perşembe', saat: 6, dersAdi: 'Matematik', odev: 'Hayır', not: '' },
-    { gun: 'perşembe', saat: 7, dersAdi: 'Din', odev: 'Evet', not: 'Kitap etkinliği' },
-    { gun: 'perşembe', saat: 8, dersAdi: 'Tarih', odev: 'Evet', not: 'Afiş' },
+    { gun: 'perşembe', saat: 7, dersAdi: 'Din', odev: 'Hayır', not: 'Kitap ' },
+    { gun: 'perşembe', saat: 8, dersAdi: 'Tarih', odev: 'Hayır', not: '' },
     
     // Cuma
     { gun: 'cuma', saat: 1, dersAdi: 'Müzik', odev: 'Hayır', not: '' },
     { gun: 'cuma', saat: 2, dersAdi: 'Türk Dili ve Edebiyatı', odev: 'Hayır', not: '' },
     { gun: 'cuma', saat: 3, dersAdi: 'Din Kültürü ve Ahlak Bilgisi', odev: 'Hayır', not: '' },
     { gun: 'cuma', saat: 4, dersAdi: 'Tarih', odev: 'Hayır', not: '' },
-    { gun: 'cuma', saat: 5, dersAdi: 'Kimya', odev: 'Evet', not: 'Kitapta altı çizili yerler yazılacak.' },
-    { gun: 'cuma', saat: 6, dersAdi: 'Kimya', odev: 'Evet', not: 'Kitapta altı çizili yerler yazılacak.' },
-    { gun: 'cuma', saat: 7, dersAdi: 'Beden Eğitimi', odev: 'Hayır', not: '' },
-    { gun: 'cuma', saat: 8, dersAdi: 'Beden Eğitimi', odev: 'Hayır', not: '' },
+    { gun: 'cuma', saat: 5, dersAdi: 'Kimya', odev: 'Evet', not: 'Slayt' },
+    { gun: 'cuma', saat: 6, dersAdi: 'Kimya', odev: 'Evet', not: 'Slayt' },
+    { gun: 'cuma', saat: 7, dersAdi: 'Beden Eğitimi', odev: 'Hayır', not: 'Top getirin' },
+    { gun: 'cuma', saat: 8, dersAdi: 'Beden Eğitimi', odev: 'Hayır', not: 'Top getirin' },
 ];
 
 // Ders Programını Oluşturma Fonksiyonu
