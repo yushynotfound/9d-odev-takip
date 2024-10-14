@@ -98,6 +98,7 @@ a {
     margin-top: 5px;
 }
 
+
 /* Responsive Styles */
 @media (max-width: 768px) {
     table, thead, tbody, th, td, tr {
