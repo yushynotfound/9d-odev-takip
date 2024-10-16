@@ -91,12 +91,10 @@ const dersVerileri = [
     // Perşembe
     { gun: 'perşembe', saat: 1, dersAdi: 'Türk Dili ve Edebiyatı', odev: 'Hayır', not: '' },
     { gun: 'perşembe', saat: 2, dersAdi: 'Türk Dili ve Edebiyatı', odev: 'Hayır', not: '' },
-    { gun: 'perşembe', saat: 1, dersAdi: 'Türk Dili ve Edebiyatı', odev: 'Hayır', not: '' },
-    { gun: 'perşembe', saat: 2, dersAdi: 'Türk Dili ve Edebiyatı', odev: 'Hayır', not: '' },
     { gun: 'perşembe', saat: 3, dersAdi: 'Almanca', odev: 'Hayır', not: '' },
     { gun: 'perşembe', saat: 4, dersAdi: 'Coğrafya', odev: 'Hayır', not: '' },
-    { gun: 'perşembe', saat: 5, dersAdi: 'Matematik', odev: 'Hayır', not: '' },
-    { gun: 'perşembe', saat: 6, dersAdi: 'Matematik', odev: 'Hayır', not: '' },
+    { gun: 'perşembe', saat: 5, dersAdi: 'Matematik', odev: 'Evet', not: 'Ders kitabı etkinlikleri' },
+    { gun: 'perşembe', saat: 6, dersAdi: 'Matematik', odev: 'Evet', not: 'Ders kitabı etkinlikleri' },
     { gun: 'perşembe', saat: 7, dersAdi: 'Din', odev: 'Hayır', not: '' },
     { gun: 'perşembe', saat: 8, dersAdi: 'Tarih', odev: 'Evet', not: 'Kitap etkinlikleri ve özet çıkarma' },
     
